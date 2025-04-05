@@ -1,0 +1,22 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Name": "Hoa"
+            }
+        ],
+        "Category": "System Information",
+        "Name": "",
+        "Description": "Desktop widget",
+        "Id": "hoa.widget.plasma",
+        "KPackageStructure": ["Plasma/Applet"],
+        "License": "MIT",
+        "Icon": "application-menu-symbolic",
+        "Version": "1.0"
+    },
+    "X-KDE-ParentApp": "",
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-MainScript": "ui/main.qml",
+    "X-Plasma-RemoteLocation": ""
+}
